@@ -1,0 +1,1559 @@
+{
+  "root": 897,
+  "categories": {
+    "902": {
+      "id": 902,
+      "name": "Pengumuman",
+      "slug": "pengumuman"
+    },
+    "899": {
+      "id": 899,
+      "name": "Akademik",
+      "slug": "akademik"
+    },
+    "912": {
+      "id": 912,
+      "name": "Akreditasi Institusi dan Program Studi",
+      "slug": "akreditasi-institusi-dan-program-studi"
+    },
+    "1289": {
+      "id": 1289,
+      "name": "Standar Pelayanan Public",
+      "slug": "standar-pelayanan-public"
+    },
+    "1306": {
+      "id": 1306,
+      "name": "Statuta",
+      "slug": "statuta"
+    },
+    "1307": {
+      "id": 1307,
+      "name": "Surat Keputusan",
+      "slug": "surat-keputusan"
+    },
+    "1308": {
+      "id": 1308,
+      "name": "Peraturan Direktur",
+      "slug": "peraturan-direktur"
+    },
+    "1716": {
+      "id": 1716,
+      "name": "Perjanjian Kinerja",
+      "slug": "perjanjian-kinerja"
+    },
+    "907": {
+      "id": 907,
+      "name": "Perencanaan",
+      "slug": "perencanaan"
+    },
+    "910": {
+      "id": 910,
+      "name": "Jaringan Dokumentasi dan Informasi Hukum",
+      "slug": "jaringan-dokumentasi-dan-informasi-hukum"
+    },
+    "1319": {
+      "id": 1319,
+      "name": "SAWO",
+      "slug": "sawo"
+    },
+    "915": {
+      "id": 915,
+      "name": "SOP di PENS",
+      "slug": "sop-di-pens"
+    },
+    "1327": {
+      "id": 1327,
+      "name": "Pendirian Program Studi",
+      "slug": "pendirian-program-studi"
+    },
+    "903": {
+      "id": 903,
+      "name": "Kemahasiswaan",
+      "slug": "kemahasiswaan"
+    },
+    "904": {
+      "id": 904,
+      "name": "Kerjasama",
+      "slug": "kerjasama"
+    },
+    "921": {
+      "id": 921,
+      "name": "Perlengkapan & Rumah Tangga",
+      "slug": "perlengkapan-rumah-tangga"
+    },
+    "922": {
+      "id": 922,
+      "name": "Keuangan & Kepegawaian",
+      "slug": "keuangan-kepegawaian"
+    },
+    "920": {
+      "id": 920,
+      "name": "Penelitian dan Pengabdian",
+      "slug": "penelitian-dan-pengabdian"
+    },
+    "2067": {
+      "id": 2067,
+      "name": "Pengumuman Akademik",
+      "slug": "pengumuman-akademik"
+    },
+    "3010": {
+      "id": 3010,
+      "name": "Formulir Akademik",
+      "slug": "formulir-akademik"
+    },
+    "2574": {
+      "id": 2574,
+      "name": "Kalender Akademik",
+      "slug": "kalender-akademik"
+    },
+    "2575": {
+      "id": 2575,
+      "name": "Yudisium",
+      "slug": "yudisium"
+    },
+    "2578": {
+      "id": 2578,
+      "name": "Kurikulum",
+      "slug": "kurikulum"
+    },
+    "2576": {
+      "id": 2576,
+      "name": "Penerimaan Mahasiswa Baru",
+      "slug": "penerimaan-mahasiswa-baru"
+    },
+    "3017": {
+      "id": 3017,
+      "name": "Peraturan",
+      "slug": "peraturan"
+    },
+    "2577": {
+      "id": 2577,
+      "name": "Lain-lain",
+      "slug": "lain-lain"
+    },
+    "1477": {
+      "id": 1477,
+      "name": "Akreditasi Institusi",
+      "slug": "akreditasi-institusi"
+    },
+    "1478": {
+      "id": 1478,
+      "name": "Program Studi",
+      "slug": "program-studi"
+    },
+    "1430": {
+      "id": 1430,
+      "name": "Peraturan Kemahasiswaan",
+      "slug": "peraturan-kemahasiswaan"
+    },
+    "1431": {
+      "id": 1431,
+      "name": "Peraturan Kepegawaian",
+      "slug": "peraturan-kepegawaian"
+    },
+    "1433": {
+      "id": 1433,
+      "name": "Peraturan Kerjasama",
+      "slug": "peraturan-kerjasama"
+    },
+    "1434": {
+      "id": 1434,
+      "name": "Peraturan Akademik",
+      "slug": "peraturan-akademik"
+    },
+    "1310": {
+      "id": 1310,
+      "name": "Rencana Induk Pengembangan",
+      "slug": "rencana-induk-pengembangan"
+    },
+    "1714": {
+      "id": 1714,
+      "name": "Rencana Strategis",
+      "slug": "rencana-strategis"
+    },
+    "1715": {
+      "id": 1715,
+      "name": "Laporan Kinerja",
+      "slug": "laporan-kinerja"
+    },
+    "1717": {
+      "id": 1717,
+      "name": "Rencana Kerja Tahunan",
+      "slug": "rencana-kerja-tahunan"
+    },
+    "1326": {
+      "id": 1326,
+      "name": "Luar Negeri",
+      "slug": "luar-negeri"
+    },
+    "1345": {
+      "id": 1345,
+      "name": "Dalam Negeri",
+      "slug": "dalam-negeri"
+    },
+    "2230": {
+      "id": 2230,
+      "name": "Akademik",
+      "slug": "akademik-1637024656"
+    },
+    "2231": {
+      "id": 2231,
+      "name": "Kemahasiswaan",
+      "slug": "kemahasiswaan-1637024705"
+    },
+    "2558": {
+      "id": 2558,
+      "name": "SK Penataan",
+      "slug": "sk-penataan"
+    },
+    "2834": {
+      "id": 2834,
+      "name": "Doktor Terapan",
+      "slug": "doktor-terapan"
+    },
+    "2527": {
+      "id": 2527,
+      "name": "Pascasarjana",
+      "slug": "pascasarjana-1675145941"
+    },
+    "2530": {
+      "id": 2530,
+      "name": "Elektronika",
+      "slug": "elektronika-1675146052"
+    },
+    "2533": {
+      "id": 2533,
+      "name": "Telekomunikasi",
+      "slug": "telekomunikasi-1675146129"
+    },
+    "2537": {
+      "id": 2537,
+      "name": "Elektro Industri",
+      "slug": "elektro-industri-1675146319"
+    },
+    "2540": {
+      "id": 2540,
+      "name": "Informatika",
+      "slug": "informatika-1675146386"
+    },
+    "2543": {
+      "id": 2543,
+      "name": "Komputer",
+      "slug": "komputer-1675146448"
+    },
+    "2544": {
+      "id": 2544,
+      "name": "Mekatronika",
+      "slug": "mekatronika-1675146462"
+    },
+    "2545": {
+      "id": 2545,
+      "name": "Multimedia Broadcasting",
+      "slug": "multimedia-broadcasting-1675146488"
+    },
+    "2546": {
+      "id": 2546,
+      "name": "Sistem Pembangkit Energi",
+      "slug": "sistem-pembangkit-energi-1675146523"
+    },
+    "2547": {
+      "id": 2547,
+      "name": "Teknologi Game",
+      "slug": "teknologi-game-1675146549"
+    },
+    "2548": {
+      "id": 2548,
+      "name": "Teknologi Rekayasa Internet",
+      "slug": "teknologi-rekayasa-internet-1675146574"
+    },
+    "2549": {
+      "id": 2549,
+      "name": "Teknologi Rekayasa Multimedia",
+      "slug": "teknologi-rekayasa-multimedia-1675146591"
+    },
+    "2550": {
+      "id": 2550,
+      "name": "Sains Data Terapan",
+      "slug": "sains-data-terapan-1767095294"
+    },
+    "3080": {
+      "id": 3080,
+      "name": "Teknologi Rekayasa Perancangan Manufaktur",
+      "slug": "teknologi-rekayasa-perancangan-manufaktur"
+    },
+    "3084": {
+      "id": 3084,
+      "name": "Teknologi Rekayasa Keselamatan",
+      "slug": "teknologi-rekayasa-keselamatan"
+    },
+    "2551": {
+      "id": 2551,
+      "name": "PJJ",
+      "slug": "pjj-1675146625"
+    },
+    "2552": {
+      "id": 2552,
+      "name": "PSDKU Lamongan",
+      "slug": "psdku-lamongan-1675146639"
+    },
+    "2555": {
+      "id": 2555,
+      "name": "PSDKU Sumenep",
+      "slug": "psdku-sumenep-1675146694"
+    },
+    "2852": {
+      "id": 2852,
+      "name": "Diploma II (D2)",
+      "slug": "diploma-ii-d2"
+    },
+    "2853": {
+      "id": 2853,
+      "name": "Diploma I (D1)",
+      "slug": "diploma-i-d1"
+    },
+    "2398": {
+      "id": 2398,
+      "name": "PKKMB",
+      "slug": "pkkmb"
+    },
+    "2598": {
+      "id": 2598,
+      "name": "Pendataan BPJS Kesehatan",
+      "slug": "pendataan-bpjs-kesehatan"
+    },
+    "3129": {
+      "id": 3129,
+      "name": "SKEM",
+      "slug": "skem"
+    },
+    "1331": {
+      "id": 1331,
+      "name": "Kegiatan Pegawai",
+      "slug": "kegiatan-pegawai"
+    },
+    "905": {
+      "id": 905,
+      "name": "Ristekdikti",
+      "slug": "ristekdikti"
+    },
+    "3083": {
+      "id": 3083,
+      "name": "2026",
+      "slug": "2026-1768882843"
+    },
+    "2964": {
+      "id": 2964,
+      "name": "2025",
+      "slug": "2025-1737509878"
+    },
+    "2740": {
+      "id": 2740,
+      "name": "2024",
+      "slug": "2024"
+    },
+    "2640": {
+      "id": 2640,
+      "name": "2023",
+      "slug": "2023-1707788121"
+    },
+    "2641": {
+      "id": 2641,
+      "name": "2022",
+      "slug": "2022-1689044699"
+    },
+    "2642": {
+      "id": 2642,
+      "name": "2021",
+      "slug": "2021-1689044766"
+    },
+    "2643": {
+      "id": 2643,
+      "name": "2020",
+      "slug": "2020-1689045939"
+    },
+    "2644": {
+      "id": 2644,
+      "name": "2019",
+      "slug": "2019-1689046173"
+    },
+    "2645": {
+      "id": 2645,
+      "name": "2018",
+      "slug": "2018"
+    },
+    "2807": {
+      "id": 2807,
+      "name": "Kurikulum 2022",
+      "slug": "kurikulum-2022"
+    },
+    "2814": {
+      "id": 2814,
+      "name": "Kurikulum 2019",
+      "slug": "kurikulum-2019"
+    },
+    "3079": {
+      "id": 3079,
+      "name": "2026",
+      "slug": "2026"
+    },
+    "2944": {
+      "id": 2944,
+      "name": "2025",
+      "slug": "2025"
+    },
+    "2775": {
+      "id": 2775,
+      "name": "2024",
+      "slug": "2024-1713487853"
+    },
+    "2635": {
+      "id": 2635,
+      "name": "2023",
+      "slug": "2023"
+    },
+    "2636": {
+      "id": 2636,
+      "name": "2022",
+      "slug": "2022"
+    },
+    "2637": {
+      "id": 2637,
+      "name": "2021",
+      "slug": "2021"
+    },
+    "2638": {
+      "id": 2638,
+      "name": "2020",
+      "slug": "2020"
+    },
+    "2639": {
+      "id": 2639,
+      "name": "2019",
+      "slug": "2019"
+    },
+    "2965": {
+      "id": 2965,
+      "name": "Doktor Terapan",
+      "slug": "doktor-terapan-1738892313"
+    },
+    "1482": {
+      "id": 1482,
+      "name": "Pascasarjana",
+      "slug": "pascasarjana"
+    },
+    "1479": {
+      "id": 1479,
+      "name": "Elektronika",
+      "slug": "elektronika"
+    },
+    "1486": {
+      "id": 1486,
+      "name": "Telekomunikasi",
+      "slug": "telekomunikasi"
+    },
+    "1489": {
+      "id": 1489,
+      "name": "Elektro Industri",
+      "slug": "elektro-industri"
+    },
+    "1492": {
+      "id": 1492,
+      "name": "Informatika",
+      "slug": "informatika"
+    },
+    "1495": {
+      "id": 1495,
+      "name": "Komputer",
+      "slug": "komputer"
+    },
+    "1496": {
+      "id": 1496,
+      "name": "Mekatronika",
+      "slug": "mekatronika"
+    },
+    "1497": {
+      "id": 1497,
+      "name": "Multimedia Broadcasting",
+      "slug": "multimedia-broadcasting"
+    },
+    "1498": {
+      "id": 1498,
+      "name": "Sistem Pembangkit Energi",
+      "slug": "sistem-pembangkit-energi"
+    },
+    "1499": {
+      "id": 1499,
+      "name": "Teknologi GAME",
+      "slug": "teknologi-game"
+    },
+    "2330": {
+      "id": 2330,
+      "name": "Teknologi Rekayasa Internet",
+      "slug": "teknologi-rekayasa-internet"
+    },
+    "2331": {
+      "id": 2331,
+      "name": "Teknologi Rekayasa Multimedia",
+      "slug": "teknologi-rekayasa-multimedia"
+    },
+    "2332": {
+      "id": 2332,
+      "name": "Sains Data Terapan",
+      "slug": "sains-data-terapan"
+    },
+    "3081": {
+      "id": 3081,
+      "name": "Teknologi Rekayasa Perancangan Manufaktur",
+      "slug": "teknologi-rekayasa-perancangan-manufaktur-1767095762"
+    },
+    "3085": {
+      "id": 3085,
+      "name": "Teknologi Rekayasa Keselamatan",
+      "slug": "teknologi-rekayasa-keselamatan-1768983861"
+    },
+    "1500": {
+      "id": 1500,
+      "name": "PJJ",
+      "slug": "pjj"
+    },
+    "2324": {
+      "id": 2324,
+      "name": "PSDKU Lamongan",
+      "slug": "psdku-lamongan"
+    },
+    "2327": {
+      "id": 2327,
+      "name": "PSDKU Sumenep",
+      "slug": "psdku-sumenep"
+    },
+    "2528": {
+      "id": 2528,
+      "name": "Teknik Elektro",
+      "slug": "teknik-elektro-1675145974"
+    },
+    "2529": {
+      "id": 2529,
+      "name": "Teknik Informatika dan Komputer",
+      "slug": "teknik-informatika-dan-komputer-1675146018"
+    },
+    "2531": {
+      "id": 2531,
+      "name": "D3 Teknik Elektronika",
+      "slug": "d3-teknik-elektronika-1675146085"
+    },
+    "2536": {
+      "id": 2536,
+      "name": "D4 Teknik Elektronika",
+      "slug": "d4-teknik-elektronika-1675146242"
+    },
+    "2534": {
+      "id": 2534,
+      "name": "D3 Teknik Telekomunikasi",
+      "slug": "d3-teknik-telekomunikasi-1675146181"
+    },
+    "2535": {
+      "id": 2535,
+      "name": "D4 Teknik Telekomunikasi",
+      "slug": "d4-teknik-telekomunikasi-1675146210"
+    },
+    "2538": {
+      "id": 2538,
+      "name": "D3 Teknik Elektro Industri",
+      "slug": "d3-teknik-elektro-industri-1675146343"
+    },
+    "2539": {
+      "id": 2539,
+      "name": "D4 Teknik Elektro Industri",
+      "slug": "d4-teknik-elektro-industri"
+    },
+    "2541": {
+      "id": 2541,
+      "name": "D3 Teknik Informatika",
+      "slug": "d3-teknik-informatika-1675146406"
+    },
+    "2542": {
+      "id": 2542,
+      "name": "D4 Teknik Informatika",
+      "slug": "d4-teknik-informatika-1675146425"
+    },
+    "2559": {
+      "id": 2559,
+      "name": "D3 PJJ Teknik Informatika",
+      "slug": "d3-pjj-teknik-informatika"
+    },
+    "2560": {
+      "id": 2560,
+      "name": "D4 PJJ Teknik Telekomunikasi",
+      "slug": "d4-pjj-teknik-telekomunikasi"
+    },
+    "2553": {
+      "id": 2553,
+      "name": "D3 Multimedia Broadcasting",
+      "slug": "d3-multimedia-broadcasting-1675146659"
+    },
+    "2554": {
+      "id": 2554,
+      "name": "D3 Teknik Informatika",
+      "slug": "d3-teknik-informatika-1675146677"
+    },
+    "2557": {
+      "id": 2557,
+      "name": "D3 Teknik Informatika",
+      "slug": "d3-teknik-informatika-1675146730"
+    },
+    "3087": {
+      "id": 3087,
+      "name": "SNBP",
+      "slug": "snbp-1777955057"
+    },
+    "3116": {
+      "id": 3116,
+      "name": "Program PJJ",
+      "slug": "program-pjj"
+    },
+    "3117": {
+      "id": 3117,
+      "name": "Mandiri",
+      "slug": "mandiri"
+    },
+    "3123": {
+      "id": 3123,
+      "name": "RPL-Lanjut Jenang",
+      "slug": "rpl-lanjut-jenang"
+    },
+    "3095": {
+      "id": 3095,
+      "name": "SNBT",
+      "slug": "snbt-1779778505"
+    },
+    "3094": {
+      "id": 3094,
+      "name": "Kelas IUP",
+      "slug": "kelas-iup"
+    },
+    "3082": {
+      "id": 3082,
+      "name": "KUOTA",
+      "slug": "kuota-1768372574"
+    },
+    "2945": {
+      "id": 2945,
+      "name": "KUOTA",
+      "slug": "kuota-1734919933"
+    },
+    "2997": {
+      "id": 2997,
+      "name": "S2",
+      "slug": "s2-1748941436"
+    },
+    "2988": {
+      "id": 2988,
+      "name": "SNBP",
+      "slug": "snbp-1742347307"
+    },
+    "3000": {
+      "id": 3000,
+      "name": "SNBT",
+      "slug": "snbt-1750227147"
+    },
+    "3001": {
+      "id": 3001,
+      "name": "SIMANDIRI",
+      "slug": "simandiri-1750823694"
+    },
+    "3002": {
+      "id": 3002,
+      "name": "PJJ",
+      "slug": "pjj-1752799571"
+    },
+    "3003": {
+      "id": 3003,
+      "name": "RPL",
+      "slug": "rpl-1752799637"
+    },
+    "2792": {
+      "id": 2792,
+      "name": "KUOTA",
+      "slug": "kuota-1717121980"
+    },
+    "2822": {
+      "id": 2822,
+      "name": "S2",
+      "slug": "s2-1717127558"
+    },
+    "2790": {
+      "id": 2790,
+      "name": "SNBP",
+      "slug": "snbp-1717127417"
+    },
+    "2824": {
+      "id": 2824,
+      "name": "SNBT",
+      "slug": "snbt-1719984187"
+    },
+    "2835": {
+      "id": 2835,
+      "name": "SIMANDIRI",
+      "slug": "simandiri-1722218146"
+    },
+    "2836": {
+      "id": 2836,
+      "name": "PJJ",
+      "slug": "pjj-1722218182"
+    },
+    "2899": {
+      "id": 2899,
+      "name": "RPL",
+      "slug": "rpl"
+    },
+    "2791": {
+      "id": 2791,
+      "name": "KUOTA",
+      "slug": "kuota"
+    },
+    "2789": {
+      "id": 2789,
+      "name": "S2",
+      "slug": "s2"
+    },
+    "2784": {
+      "id": 2784,
+      "name": "SNBP",
+      "slug": "snbp"
+    },
+    "2785": {
+      "id": 2785,
+      "name": "SNBT",
+      "slug": "snbt"
+    },
+    "2786": {
+      "id": 2786,
+      "name": "SIMANDIRI",
+      "slug": "simandiri"
+    },
+    "2787": {
+      "id": 2787,
+      "name": "PJJ",
+      "slug": "pjj-1717120038"
+    },
+    "2788": {
+      "id": 2788,
+      "name": "RPL LJ",
+      "slug": "rpl-lj-1717122970"
+    },
+    "2793": {
+      "id": 2793,
+      "name": "KUOTA",
+      "slug": "kuota-1717122559"
+    },
+    "2794": {
+      "id": 2794,
+      "name": "S2",
+      "slug": "s2-1717122572"
+    },
+    "2795": {
+      "id": 2795,
+      "name": "SNMPTN",
+      "slug": "snmptn"
+    },
+    "2797": {
+      "id": 2797,
+      "name": "SBMPTN",
+      "slug": "sbmptn"
+    },
+    "2796": {
+      "id": 2796,
+      "name": "SIMANDIRI",
+      "slug": "simandiri-1717122861"
+    },
+    "2798": {
+      "id": 2798,
+      "name": "RPL LJ",
+      "slug": "rpl-lj"
+    },
+    "2799": {
+      "id": 2799,
+      "name": "SNMPN - SBMPN",
+      "slug": "snmpn-sbmpn"
+    },
+    "2800": {
+      "id": 2800,
+      "name": "PJJ",
+      "slug": "pjj-1717123092"
+    },
+    "2804": {
+      "id": 2804,
+      "name": "KUOTA",
+      "slug": "kuota-1717124944"
+    },
+    "2801": {
+      "id": 2801,
+      "name": "S2",
+      "slug": "s2-1717124707"
+    },
+    "2802": {
+      "id": 2802,
+      "name": "SNMPTN - SBMPTN",
+      "slug": "snmptn-sbmptn"
+    },
+    "2803": {
+      "id": 2803,
+      "name": "SNMPN - SBMPN",
+      "slug": "snmpn-sbmpn-1717124849"
+    },
+    "2805": {
+      "id": 2805,
+      "name": "SIMANDIRI",
+      "slug": "simandiri-1717125007"
+    },
+    "2806": {
+      "id": 2806,
+      "name": "PJJ",
+      "slug": "pjj-1717125039"
+    },
+    "2808": {
+      "id": 2808,
+      "name": "RPL LJ",
+      "slug": "rpl-lj-1717126106"
+    },
+    "2815": {
+      "id": 2815,
+      "name": "S2",
+      "slug": "s2-1717126876"
+    },
+    "2809": {
+      "id": 2809,
+      "name": "SNMPN",
+      "slug": "snmpn"
+    },
+    "2810": {
+      "id": 2810,
+      "name": "SBMPN",
+      "slug": "sbmpn"
+    },
+    "2811": {
+      "id": 2811,
+      "name": "SIMANDIRI",
+      "slug": "simandiri-1717126724"
+    },
+    "2812": {
+      "id": 2812,
+      "name": "RPL LJ",
+      "slug": "rpl-lj-1717126756"
+    },
+    "2813": {
+      "id": 2813,
+      "name": "PJJ",
+      "slug": "pjj-1717126763"
+    },
+    "2816": {
+      "id": 2816,
+      "name": "PSDKU",
+      "slug": "psdku"
+    },
+    "2817": {
+      "id": 2817,
+      "name": "PSDKU",
+      "slug": "psdku-1717127133"
+    },
+    "2818": {
+      "id": 2818,
+      "name": "PMDK",
+      "slug": "pmdk"
+    },
+    "2819": {
+      "id": 2819,
+      "name": "UMPN",
+      "slug": "umpn"
+    },
+    "2820": {
+      "id": 2820,
+      "name": "SIMANDIRI",
+      "slug": "simandiri-1717127216"
+    },
+    "2821": {
+      "id": 2821,
+      "name": "KERJASAMA PLN",
+      "slug": "kerjasama-pln"
+    },
+    "2966": {
+      "id": 2966,
+      "name": "Sistem Siber Fisik",
+      "slug": "sistem-siber-fisik"
+    },
+    "1484": {
+      "id": 1484,
+      "name": "Teknik Elektro",
+      "slug": "teknik-elektro"
+    },
+    "1485": {
+      "id": 1485,
+      "name": "Teknik Informatika dan Komputer",
+      "slug": "teknik-informatika-dan-komputer"
+    },
+    "1480": {
+      "id": 1480,
+      "name": "D3 Teknik Elektronika",
+      "slug": "d3-teknik-elektronika"
+    },
+    "1481": {
+      "id": 1481,
+      "name": "D4 Teknik Elektronika",
+      "slug": "d4-teknik-elektronika"
+    },
+    "1487": {
+      "id": 1487,
+      "name": "D3 Teknik Telekomunikasi",
+      "slug": "d3-teknik-telekomunikasi"
+    },
+    "1488": {
+      "id": 1488,
+      "name": "D4 Teknik Telekomunikasi",
+      "slug": "d4-teknik-telekomunikasi"
+    },
+    "1490": {
+      "id": 1490,
+      "name": "D3 Teknik Elektro Industri",
+      "slug": "d3-teknik-elektro-industri"
+    },
+    "1491": {
+      "id": 1491,
+      "name": "D4 Teknik Elektro Indutri",
+      "slug": "d4-teknik-elektro-indutri"
+    },
+    "1493": {
+      "id": 1493,
+      "name": "D3 Teknik Informatika",
+      "slug": "d3-teknik-informatika"
+    },
+    "1494": {
+      "id": 1494,
+      "name": "D4 Teknik Informatika",
+      "slug": "d4-teknik-informatika"
+    },
+    "2329": {
+      "id": 2329,
+      "name": "D3 Teknik Informatika",
+      "slug": "d3-teknik-informatika-1649824666"
+    },
+    "1501": {
+      "id": 1501,
+      "name": "D3 Teknik Informatika",
+      "slug": "d3-teknik-informatika-1574301231"
+    },
+    "1502": {
+      "id": 1502,
+      "name": "D4 Teknik Telekomunikasi",
+      "slug": "d4-teknik-telekomunikasi-1574301252"
+    },
+    "2325": {
+      "id": 2325,
+      "name": "D3 Multimedia Broadcasting",
+      "slug": "d3-multimedia-broadcasting"
+    },
+    "2326": {
+      "id": 2326,
+      "name": "D3 Teknik Informatika",
+      "slug": "d3-teknik-informatika-1649824587"
+    },
+    "2328": {
+      "id": 2328,
+      "name": "D3 Multimedia Broadcasting",
+      "slug": "d3-multimedia-broadcasting-1649824644"
+    },
+    "3089": {
+      "id": 3089,
+      "name": "PENGAKUAN SKS GENAP 25-26",
+      "slug": "pengakuan-sks-genap-25-26"
+    },
+    "3093": {
+      "id": 3093,
+      "name": "STr Teknik Elektronika",
+      "slug": "str-teknik-elektronika"
+    },
+    "3088": {
+      "id": 3088,
+      "name": "STr Teknik Telekomunikasi",
+      "slug": "str-teknik-telekomunikasi"
+    },
+    "3090": {
+      "id": 3090,
+      "name": "STr Teknik Elektro Industri",
+      "slug": "str-teknik-elektro-industri"
+    },
+    "3091": {
+      "id": 3091,
+      "name": "STr Teknik Informatika",
+      "slug": "str-teknik-informatika"
+    },
+    "3092": {
+      "id": 3092,
+      "name": "D3 PJJ Teknik Informatika",
+      "slug": "d3-pjj-teknik-informatika-1775548113"
+    },
+    "3012": {
+      "id": 3012,
+      "name": "PENGAKUAN SKS",
+      "slug": "pengakuan-sks-1757473577"
+    },
+    "2900": {
+      "id": 2900,
+      "name": "PENGAKUAN SKS",
+      "slug": "pengakuan-sks"
+    },
+    "2901": {
+      "id": 2901,
+      "name": "MATA KULIAH TIDAK DIAKUI",
+      "slug": "mata-kuliah-tidak-diakui"
+    },
+    "3013": {
+      "id": 3013,
+      "name": "D4 TEKNIK ELEKTRONIKA",
+      "slug": "d4-teknik-elektronika-1757473636"
+    },
+    "3014": {
+      "id": 3014,
+      "name": "D4 TEKNIK TELEKOMUNIKASI",
+      "slug": "d4-teknik-telekomunikasi-1757473682"
+    },
+    "3015": {
+      "id": 3015,
+      "name": "D4 TEKNIK ELEKTRO INDUSTRI",
+      "slug": "d4-teknik-elektro-industri-1757473724"
+    },
+    "3016": {
+      "id": 3016,
+      "name": "D4 TEKNIK INFORMATIKA",
+      "slug": "d4-teknik-informatika-1757473750"
+    },
+    "2902": {
+      "id": 2902,
+      "name": "D4 TEKNIK ELEKTRONIKA_GASAL 2024/2025",
+      "slug": "d4-teknik-elektronika_gasal-2024-2025"
+    },
+    "2903": {
+      "id": 2903,
+      "name": "D4 TEKNIK TELEKOMUNIKASI_GASAL 2024/2025",
+      "slug": "d4-teknik-telekomunikasi_gasal-2024-2025"
+    },
+    "2904": {
+      "id": 2904,
+      "name": "D4 TEKNIK ELEKTRO INDUSTRI_GASAL 2024/2025",
+      "slug": "d4-teknik-elektro-industri_gasal-2024-2025"
+    },
+    "2905": {
+      "id": 2905,
+      "name": "D4 TEKNIK INFORMATIKA_GASAL 2024/2025",
+      "slug": "d4-teknik-informatika_gasal-2024-2025"
+    },
+    "2959": {
+      "id": 2959,
+      "name": "D4 TEKNIK ELEKTRONIKA_GENAP 2024/2025",
+      "slug": "d4-teknik-elektronika_genap-2024-2025"
+    },
+    "2960": {
+      "id": 2960,
+      "name": "D4 TEKNIK TELEKOMUNIKASI_GENAP 2024/2025",
+      "slug": "d4-teknik-telekomunikasi_genap-2024-2025"
+    },
+    "2961": {
+      "id": 2961,
+      "name": "D4 TEKNIK ELEKTRO INDUSTRI_GENAP 2024/2025",
+      "slug": "d4-teknik-elektro-industri_genap-2024-2025"
+    },
+    "2962": {
+      "id": 2962,
+      "name": "D4 TEKNIK INFORMATIKA_GENAP 2024/2025",
+      "slug": "d4-teknik-informatika_genap-2024-2025"
+    },
+    "2963": {
+      "id": 2963,
+      "name": "D3PJJ TEKNIK INFORMATIKA_GENAP 2024/2025",
+      "slug": "d3pjj-teknik-informatika_genap-2024-2025"
+    },
+    "2906": {
+      "id": 2906,
+      "name": "D4 TEKNIK ELEKTRONIKA",
+      "slug": "d4-teknik-elektronika-1730773157"
+    },
+    "2907": {
+      "id": 2907,
+      "name": "D4 TEKNIK TELEKOMUNIKASI",
+      "slug": "d4-teknik-telekomunikasi-1730773180"
+    },
+    "2908": {
+      "id": 2908,
+      "name": "D4 TEKNIK ELEKTRO INDUSTRI",
+      "slug": "d4-teknik-elektro-industri-1730773202"
+    },
+    "2909": {
+      "id": 2909,
+      "name": "D4 TEKNIK INFORMATIKA",
+      "slug": "d4-teknik-informatika-1730773222"
+    }
+  },
+  "children": {
+    "902": [],
+    "899": [
+      2067,
+      3010,
+      2574,
+      2575,
+      2578,
+      2576,
+      3017,
+      2577
+    ],
+    "912": [
+      1477,
+      1478
+    ],
+    "1289": [],
+    "1306": [],
+    "1307": [],
+    "1308": [
+      1430,
+      1431,
+      1433,
+      1434
+    ],
+    "1716": [],
+    "907": [
+      1310,
+      1714,
+      1715,
+      1717
+    ],
+    "910": [],
+    "1319": [
+      1326,
+      1345
+    ],
+    "915": [
+      2230,
+      2231
+    ],
+    "1327": [
+      2558,
+      2834,
+      2527,
+      2530,
+      2533,
+      2537,
+      2540,
+      2543,
+      2544,
+      2545,
+      2546,
+      2547,
+      2548,
+      2549,
+      2550,
+      3080,
+      3084,
+      2551,
+      2552,
+      2555,
+      2852,
+      2853
+    ],
+    "903": [
+      2398,
+      2598,
+      3129
+    ],
+    "904": [],
+    "921": [],
+    "922": [
+      1331
+    ],
+    "920": [
+      905
+    ],
+    "2067": [],
+    "3010": [],
+    "2574": [],
+    "2575": [
+      3083,
+      2964,
+      2740,
+      2640,
+      2641,
+      2642,
+      2643,
+      2644,
+      2645
+    ],
+    "2578": [
+      2807,
+      2814
+    ],
+    "2576": [
+      3079,
+      2944,
+      2775,
+      2635,
+      2636,
+      2637,
+      2638,
+      2639
+    ],
+    "3017": [],
+    "2577": [],
+    "1477": [],
+    "1478": [
+      2965,
+      1482,
+      1479,
+      1486,
+      1489,
+      1492,
+      1495,
+      1496,
+      1497,
+      1498,
+      1499,
+      2330,
+      2331,
+      2332,
+      3081,
+      3085,
+      1500,
+      2324,
+      2327
+    ],
+    "1430": [],
+    "1431": [],
+    "1433": [],
+    "1434": [],
+    "1310": [],
+    "1714": [],
+    "1715": [],
+    "1717": [],
+    "1326": [],
+    "1345": [],
+    "2230": [],
+    "2231": [],
+    "2558": [],
+    "2834": [],
+    "2527": [
+      2528,
+      2529
+    ],
+    "2530": [
+      2531,
+      2536
+    ],
+    "2533": [
+      2534,
+      2535
+    ],
+    "2537": [
+      2538,
+      2539
+    ],
+    "2540": [
+      2541,
+      2542
+    ],
+    "2543": [],
+    "2544": [],
+    "2545": [],
+    "2546": [],
+    "2547": [],
+    "2548": [],
+    "2549": [],
+    "2550": [],
+    "3080": [],
+    "3084": [],
+    "2551": [
+      2559,
+      2560
+    ],
+    "2552": [
+      2553,
+      2554
+    ],
+    "2555": [
+      2557
+    ],
+    "2852": [],
+    "2853": [],
+    "2398": [],
+    "2598": [],
+    "3129": [],
+    "1331": [],
+    "905": [],
+    "3083": [],
+    "2964": [],
+    "2740": [],
+    "2640": [],
+    "2641": [],
+    "2642": [],
+    "2643": [],
+    "2644": [],
+    "2645": [],
+    "2807": [],
+    "2814": [],
+    "3079": [
+      3087,
+      3116,
+      3117,
+      3123,
+      3095,
+      3094,
+      3082
+    ],
+    "2944": [
+      2945,
+      2997,
+      2988,
+      3000,
+      3001,
+      3002,
+      3003
+    ],
+    "2775": [
+      2792,
+      2822,
+      2790,
+      2824,
+      2835,
+      2836,
+      2899
+    ],
+    "2635": [
+      2791,
+      2789,
+      2784,
+      2785,
+      2786,
+      2787,
+      2788
+    ],
+    "2636": [
+      2793,
+      2794,
+      2795,
+      2797,
+      2796,
+      2798,
+      2799,
+      2800
+    ],
+    "2637": [
+      2804,
+      2801,
+      2802,
+      2803,
+      2805,
+      2806,
+      2808
+    ],
+    "2638": [
+      2815,
+      2809,
+      2810,
+      2811,
+      2812,
+      2813,
+      2816
+    ],
+    "2639": [
+      2817,
+      2818,
+      2819,
+      2820,
+      2821
+    ],
+    "2965": [
+      2966
+    ],
+    "1482": [
+      1484,
+      1485
+    ],
+    "1479": [
+      1480,
+      1481
+    ],
+    "1486": [
+      1487,
+      1488
+    ],
+    "1489": [
+      1490,
+      1491
+    ],
+    "1492": [
+      1493,
+      1494,
+      2329
+    ],
+    "1495": [],
+    "1496": [],
+    "1497": [],
+    "1498": [],
+    "1499": [],
+    "2330": [],
+    "2331": [],
+    "2332": [],
+    "3081": [],
+    "3085": [],
+    "1500": [
+      1501,
+      1502
+    ],
+    "2324": [
+      2325,
+      2326
+    ],
+    "2327": [
+      2328
+    ],
+    "2528": [],
+    "2529": [],
+    "2531": [],
+    "2536": [],
+    "2534": [],
+    "2535": [],
+    "2538": [],
+    "2539": [],
+    "2541": [],
+    "2542": [],
+    "2559": [],
+    "2560": [],
+    "2553": [],
+    "2554": [],
+    "2557": [],
+    "3087": [],
+    "3116": [],
+    "3117": [],
+    "3123": [],
+    "3095": [],
+    "3094": [],
+    "3082": [],
+    "2945": [],
+    "2997": [],
+    "2988": [],
+    "3000": [],
+    "3001": [],
+    "3002": [],
+    "3003": [
+      3089,
+      3093,
+      3088,
+      3090,
+      3091,
+      3092,
+      3012
+    ],
+    "2792": [],
+    "2822": [],
+    "2790": [],
+    "2824": [],
+    "2835": [],
+    "2836": [],
+    "2899": [
+      2900,
+      2901
+    ],
+    "2791": [],
+    "2789": [],
+    "2784": [],
+    "2785": [],
+    "2786": [],
+    "2787": [],
+    "2788": [],
+    "2793": [],
+    "2794": [],
+    "2795": [],
+    "2797": [],
+    "2796": [],
+    "2798": [],
+    "2799": [],
+    "2800": [],
+    "2804": [],
+    "2801": [],
+    "2802": [],
+    "2803": [],
+    "2805": [],
+    "2806": [],
+    "2808": [],
+    "2815": [],
+    "2809": [],
+    "2810": [],
+    "2811": [],
+    "2812": [],
+    "2813": [],
+    "2816": [],
+    "2817": [],
+    "2818": [],
+    "2819": [],
+    "2820": [],
+    "2821": [],
+    "2966": [],
+    "1484": [],
+    "1485": [],
+    "1480": [],
+    "1481": [],
+    "1487": [],
+    "1488": [],
+    "1490": [],
+    "1491": [],
+    "1493": [],
+    "1494": [],
+    "2329": [],
+    "1501": [],
+    "1502": [],
+    "2325": [],
+    "2326": [],
+    "2328": [],
+    "3089": [],
+    "3093": [],
+    "3088": [],
+    "3090": [],
+    "3091": [],
+    "3092": [],
+    "3012": [
+      3013,
+      3014,
+      3015,
+      3016
+    ],
+    "2900": [
+      2902,
+      2903,
+      2904,
+      2905,
+      2959,
+      2960,
+      2961,
+      2962,
+      2963
+    ],
+    "2901": [
+      2906,
+      2907,
+      2908,
+      2909
+    ],
+    "3013": [],
+    "3014": [],
+    "3015": [],
+    "3016": [],
+    "2902": [],
+    "2903": [],
+    "2904": [],
+    "2905": [],
+    "2959": [],
+    "2960": [],
+    "2961": [],
+    "2962": [],
+    "2963": [],
+    "2906": [],
+    "2907": [],
+    "2908": [],
+    "2909": []
+  }
+}
